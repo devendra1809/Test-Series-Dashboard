@@ -16,7 +16,7 @@ This repository contains a Power BI dashboard designed to analyze the performanc
 
 ## Files in the Repository
 
-- **UC Test Series Analytics.pbix:** The Power BI dashboard file.
+- **Test Series Analytics.pbix:** The Power BI dashboard file.
 - **my_query.sql:** The SQL query used to extract the raw data for the dashboard.
 - **Screenshots:** Visuals of the dashboard for quick reference.
 - **README.md:** Project documentation.
