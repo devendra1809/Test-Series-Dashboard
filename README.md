@@ -16,16 +16,14 @@ This repository contains a Power BI dashboard designed to analyze the performanc
 
 ## Files in the Repository
 
-- **Test Series Analytics.pbix:** The Power BI dashboard file.
 - **my_query.sql:** The SQL query used to extract the raw data for the dashboard.
 - **Screenshots:** Visuals of the dashboard for quick reference.
 - **README.md:** Project documentation.
 
 ## How to Use
 
-1. Download the `.pbix` file and open it in Power BI Desktop.
-2. Review the SQL query file to understand the data extraction process.
-3. Customize the dashboard as per your data and reporting needs.
+1. Review the SQL query file to understand the data extraction process.
+2. Review the dashboard as i have provided the screenshots for the same.
 
 ## Conclusion
 
